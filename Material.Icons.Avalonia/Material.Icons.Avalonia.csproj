@@ -23,7 +23,7 @@
         </AvaloniaResource>
     </ItemGroup>
     <ItemGroup>
-        <PackageReference Include="Avalonia" Version="0.10.0" />
-        <PackageReference Include="Material.Icons" Version="1.0.2" />
+        <PackageReference Include="Avalonia" Version="0.10.999-cibuild0020194-beta" />
+        <PackageReference Include="Material.Icons" Version="1.0.95" />
     </ItemGroup>
 </Project>
